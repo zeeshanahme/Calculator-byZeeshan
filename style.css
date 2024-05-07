@@ -1,0 +1,63 @@
+/* .outerDiv{
+    border: 2px solid;
+    width: 200px;
+    
+}  */
+button{
+    width: 45px;
+    border-radius: 30px !important;
+}
+input{
+    border-radius: 30px;
+    border-color: white !important;
+    border: 1px solid;
+    text-align: right;
+}
+/* button{
+    transform: scale(2,1);
+    transform: scaleX(3);
+    transform: rotateZ(150deg); 
+}  */
+/* .a {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 15px;
+    transition: width 2s;
+  }
+  .a:hover {
+    width: 25%;
+  }
+  .b {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-radius: 15px;
+    transition: width 2s;
+  }
+  .b:hover{
+    width: 50%;
+    
+  }
+ .c {
+    width: 100px;
+    height: 100px;
+    background: green;
+    transition: width 2s;
+    border-radius: 15px;
+    border: 10px solid blue;
+
+  }
+  .c:hover{
+    width: 75%;
+  }
+  .d {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    transition: width 2s;
+    border-radius: 15px;
+  }
+  .d:hover{
+    width: 100%;
+  } */
